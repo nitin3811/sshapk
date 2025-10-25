@@ -13,13 +13,13 @@ Install third-party modules:</br>
 
 `pip install pypng
 `</br>
--install the dependencies using pip install at the command line.
--Importing necessary modules:
-1.http.server and socketserver: To host in the browser.
-2.pyqrcode: To generate QRcode.
-3.png: To convert the QRCode into a png file.
-4.OS: To interact with the Operating system.
-Assign port and name of the user.
--Find Ip address of the PC and convert it to a QR code.
--Create the HTTP request.
--Display the QR code in browser.
+-install the dependencies using pip install at the command line.</br>
+-Importing necessary modules:</br>
+1.http.server and socketserver: To host in the browser.</br>
+2.pyqrcode: To generate QRcode.</br>
+3.png: To convert the QRCode into a png file.</br>
+4.OS: To interact with the Operating system.</br>
+Assign port and name of the user.</br>
+-Find Ip address of the PC and convert it to a QR code.</br>
+-Create the HTTP request.</br>
+-Display the QR code in browser.</br>
